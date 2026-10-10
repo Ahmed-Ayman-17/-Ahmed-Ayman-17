@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -6,23 +5,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software-Engineering%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering;Flutter%20Developer;Data%20Analysis;Machine%20Learning;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=480&height=50&color=54C5F8&vCenter=true&size=22">
+</p>
 
-- 🏢 I'm a Software Engineer and Flutter Developer and Data Analyst
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Flutter , data analysis and machine learning or anything related to Software Engineering.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 🏢 I'm a Software Engineer, Flutter Developer, Data Analyst, and Machine Learning enthusiast.
+- 👨‍💻 As a Computer Science student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about Flutter, Data Analysis, Machine Learning, or anything related to Software Engineering.
+- ⚡ Fun fact: I'm a coffee enthusiast, and my perfect day starts and ends with a cup of coffee ☕
 
+### Connect with Me
 
-
-### Connect with Me :
-
-<a href="https://linkedin.com/in/ahmedayman" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ayman-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Ahmed_D_S" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ayman-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
-
-
-
+<a href="https://linkedin.com/in/ahmedayman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Ayman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/Ahmed_D_S" target="_blank"><img src="https://img.shields.io/badge/Telegram-Ahmed%20Ayman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
