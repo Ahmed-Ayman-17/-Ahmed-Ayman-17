@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineering;Flutter%20Developer;Data%20Analysis;Machine%20Learning;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=480&height=50&color=54C5F8&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Flutter%20Developer;%20New%20Things&font=Fira%20Code&center=true&width=480&height=50&color=54C5F8&vCenter=true&size=22">
 </p>
 
 - 🏢 I'm a Software Engineer, Flutter Developer, Data Analyst, and Machine Learning enthusiast.
